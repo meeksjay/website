@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(255, 193, 60);
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 70px;
+  }
+
+  b {
+    color: navy;
+    text-align: center;
+  }
+
+  .img1,img{
+    text-align: left;
+    max-width: 100%;
+    width:100%;
+  }
+  
+  .text1{
+    text-align: left;
+    float: right;
+  }
+
+  table,th,td{
+    border: 1px;
+  }
+
+  table{
+    width: 100%;
+  }
+
+
+
